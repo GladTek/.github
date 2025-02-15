@@ -48,5 +48,5 @@
 
 **Connect with Us:**
 
-* <a href="https://www.linkedin.com/company/gladtek/"><img align="left" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/logos/linkedin/linkedin.svg" alt="Gladtek | LinkedIn" width="21px"/></a> [LinkedIn](https://www.linkedin.com/company/gladtek)
-* <a href="https://www.facebook.com/gladtek/"><img align="left" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/logos/facebook/facebook.svg" alt="GladTek | Facebook" width="21px"/></a> [Facebook](https://www.facebook.com/gladtek)
+* [LinkedIn](https://www.linkedin.com/company/gladtek)
+* [Facebook](https://www.facebook.com/gladtek)
